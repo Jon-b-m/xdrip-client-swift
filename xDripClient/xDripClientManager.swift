@@ -37,7 +37,7 @@ public class xDripClientManager: CGMManager {
 
     public var client: xDripClient?
     
-    public static let localizedTitle = LocalizedString("xDrip", comment: "Title for the CGMManager option")
+    public static let localizedTitle = LocalizedString("xDrip4iOS", comment: "Title for the CGMManager option")
 
     public let appURL: URL? = URL(string: "xdrip://")
 
